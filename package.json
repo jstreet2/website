@@ -1,0 +1,22 @@
+{
+  "name": "jenni-website",
+  "version": "1.0.0",
+  "description": "Jennifer Street's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstreet2/website.git"
+  },
+  "author": "Jennifer Street, Robin Wakeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstreet2/website/issues"
+  },
+  "homepage": "https://github.com/jstreet2/website#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
